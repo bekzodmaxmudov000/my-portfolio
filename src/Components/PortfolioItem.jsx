@@ -1,5 +1,6 @@
 import React, { useState } from "react";
-import Close from '../assets/Close.svg'
+import Close from "../assets/Close.svg"; // Yoki to‘liq yo‘lni kiritib ko‘ring
+
 
 const PortfolioItem = ({img, title, details}) => {
     const [modal, setModal] = useState(false)
