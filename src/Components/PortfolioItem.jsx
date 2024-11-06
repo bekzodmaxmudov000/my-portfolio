@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Close from "../assets/Close.svg"; // Yoki to‘liq yo‘lni kiritib ko‘ring
+import Close from "../assets/close.svg"; // Yoki to‘liq yo‘lni kiritib ko‘ring
 
 
 const PortfolioItem = ({img, title, details}) => {
