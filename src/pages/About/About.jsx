@@ -1,7 +1,7 @@
 import React from "react";
 import './about.css'
 import Info from "../../Components/info.jsx"; // yoki to‘liq to‘g‘ri kengaytma bilan
-import Stats from "../../Components/stats.jsx";
+import Stats from "../../Components/Stats.jsx";
 import {FaDownload} from 'react-icons/fa'
 import Skills from "../../Components/Skills";
 import {resume} from '../../data'
