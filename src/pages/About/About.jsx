@@ -1,6 +1,6 @@
 import React from "react";
 import './about.css'
-import Info from "../../Components/info.jsx";
+import Info from "../../Components/info.jsx"; // yoki to‘liq to‘g‘ri kengaytma bilan
 import Stats from "../../Components/stats";
 import {FaDownload} from 'react-icons/fa'
 import Skills from "../../Components/Skills";
