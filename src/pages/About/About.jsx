@@ -1,6 +1,6 @@
 import React from "react";
 import './about.css'
-import Info from "../../Components/info";
+import Info from "../../Components/info.jsx";
 import Stats from "../../Components/stats";
 import {FaDownload} from 'react-icons/fa'
 import Skills from "../../Components/Skills";
