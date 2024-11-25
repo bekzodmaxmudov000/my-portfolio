@@ -9,12 +9,12 @@ import {
   } from 'react-icons/fa';
   import { FiFileText, FiUser, FiExternalLink } from 'react-icons/fi';
   
-  import Work1 from './assets/todo.png';
+  import Work1 from './assets/twiter2.png';
   import Work2 from './assets/kankulator.png';
-  import Work3 from './assets/uzum.png';
+  import Work3 from './assets/Skrinshot 2024-11-25 064534.png';
   import Work4 from './assets/imtihonda.png';
-  import Work5 from './assets/creatic.png';
-  import Work6 from './assets/it.png';
+  import Work5 from './assets/notion.png';
+  import Work6 from './assets/quiz.png';
   
   import Theme1 from './assets/purple.png';
   import Theme2 from './assets/red.png';
@@ -260,7 +260,7 @@ import {
         {
           icon: <FiFileText />,
           title: 'Project : ',
-          desc: 'Web Site',
+          desc: 'Web Site Twitter',
         },
         {
           icon: <FiUser />,
@@ -270,12 +270,12 @@ import {
         {
           icon: <FaCode />,
           title: 'Language : ',
-          desc: 'JavaScript, React',
+          desc: 'JavaScript, React, TypeScript',
         },
         {
           icon: <FiExternalLink />,
           title: 'Preview : ',
-          desc: 'www.website.com',
+          desc: 'www.twitter.com',
         },
       ],
     },
@@ -311,7 +311,7 @@ import {
     {
       id: 3,
       img: Work3,
-      title: 'Web Site Uzum',
+      title: 'Chess Game',
       details: [
         {
           icon: <FiFileText />,
@@ -326,12 +326,12 @@ import {
         {
           icon: <FaCode />,
           title: 'Language : ',
-          desc: 'TypeScript',
+          desc: 'Html, Javascript, CSS',
         },
         {
           icon: <FiExternalLink />,
           title: 'Preview : ',
-          desc: 'www.uzum.com',
+          desc: 'www.chessgame.com',
         },
       ],
     },
@@ -367,7 +367,7 @@ import {
     {
       id: 5,
       img: Work5,
-      title: 'Web SIte Page',
+      title: 'Notion App',
       details: [
         {
           title: 'Project : ',
@@ -379,11 +379,11 @@ import {
         },
         {
           title: 'Language : ',
-          desc: 'React JS, Node JS',
+          desc: 'React JS, TypeScript',
         },
         {
           title: 'Preview : ',
-          desc: 'www.figma.com',
+          desc: 'www.Notion.com',
         },
       ],
     },
@@ -391,12 +391,12 @@ import {
     {
       id: 6,
       img: Work6,
-      title: 'Web Site ',
+      title: 'Quiz game ',
       details: [
         {
           icon: <FiFileText />,
           title: 'Project : ',
-          desc: 'Web Site',
+          desc: 'Quiz Game',
         },
         {
           icon: <FiUser />,
@@ -406,12 +406,12 @@ import {
         {
           icon: <FaCode />,
           title: 'Language : ',
-          desc: 'Html, css',
+          desc: 'Html, CSS, JavaScript',
         },
         {
           icon: <FiExternalLink />,
           title: 'Preview : ',
-          desc: 'www.html.com',
+          desc: 'www.quizgame.com',
         },
       ],
     },
